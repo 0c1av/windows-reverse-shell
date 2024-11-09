@@ -25,8 +25,8 @@ This repository contains scripts to create a reverse shell to control a Windows 
 ### Installation and Setup
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/yourusername/reverse-shell-windows.git
-   cd reverse-shell-windows
+   git clone https://github.com/0c1av/windows-reverse-shell.git
+   cd windows-reverse-shell
    ```
 2. Run the server on the attacking machine:
 - Execute the server's code: `python server.py`

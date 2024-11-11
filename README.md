@@ -45,18 +45,18 @@ This repository contains scripts to create a reverse shell to control a Windows 
 python3 server.py 
 Listening for server IP broadcast...
 Received broadcast from 192.168.0.14
-C:\Users\camil.caudron\Desktop > ls
+C:\Users\username\Desktop > ls
 html
-Camil - Chrome.lnk
+username - Chrome.lnk
 client.ps1
 FL Studio.lnk
 ports.txt
 Spotify.lnk
 Spyder.lnk
 
-C:\Users\camil.caudron\Desktop > get ports.txt
+C:\Users\username\Desktop > get ports.txt
 File 'ports.txt' received and saved.
-C:\Users\camil.caudron\Desktop > exit
+C:\Users\username\Desktop > exit
 Exiting...
 
 ### Security Considerations
